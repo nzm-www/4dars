@@ -385,7 +385,6 @@
   width: 100%;
   background: linear-gradient(183.41deg, #67c3f3 -8.57%, #5a98f2 82.96%);
 }
-
 .footer-container {
   padding-top: 118px;
   padding-left: 190px;
@@ -438,7 +437,6 @@
   letter-spacing: 0em;
   text-align: left;
 }
-
 .fo-li a:hover {
   color: firebrick;
 }
